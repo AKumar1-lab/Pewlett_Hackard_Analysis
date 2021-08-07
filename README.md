@@ -2,6 +2,8 @@
 
 Module 7 - Exploring data with SQL
 
+Completed by Angela Kumar
+
 # Overview
 
 Create entity relationship databases(ERDs), Perform data modeling, and complete analysis on an employee database using SQL techniques.
